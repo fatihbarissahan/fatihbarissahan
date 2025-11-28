@@ -11,7 +11,7 @@
 
   <!-- Avatar (optional) -->
   <!-- Replace URL with your avatar if you want -->
-  <!-- <img src="YOUR_AVATAR_URL" width="120" style="border-radius:50%; border: 2px solid #fff; box-shadow: 0 0 0 4px #00c3ff33;" /> -->
+  <img src="https://avatars.githubusercontent.com/u/65877282?v=4" width="120" style="border-radius:50%; border: 2px solid #fff; box-shadow: 0 0 0 4px #00c3ff33;" />
 
   <h3>Full Stack Developer · System Architect · Automation Builder</h3>
 
