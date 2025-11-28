@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Hero Typing Intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Fatih+Bar%C4%B1%C5%9F+%C5%9EAHAN+%F0%9F%91%8B;Full+Stack+Web+Software+Developer;Laravel+%7C+Next.js+%7C+WordPress+%7C+Automation;Building+Scalable+Digital+Systems+%26+Smart+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Fatih+Bar%C4%B1%C5%9F+%C5%9EAHAN+%F0%9F%91%8B;Full+Stack+Web+Software+Developer" alt="Typing SVG" />
 
   <br />
 
