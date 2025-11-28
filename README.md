@@ -9,8 +9,6 @@
 
   <br />
 
-  <!-- Avatar (optional) -->
-  <!-- Replace URL with your avatar if you want -->
   <img src="https://avatars.githubusercontent.com/u/65877282?v=4" width="120" style="border-radius:50%; border: 2px solid #fff; box-shadow: 0 0 0 4px #00c3ff33;" />
 
   <h3>Full Stack Developer · System Architect · Automation Builder</h3>
@@ -22,8 +20,6 @@
   </p>
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
@@ -43,8 +39,6 @@ I specialize in:
 I like turning complex business logic into **simple, elegant and maintainable systems**.  
 Strong product thinking + clean code is my natural combo.
 
----
-
 ## 🧠 Core Strengths
 
 - **System Architecture** — database design, modular backend structure, scalable workflows  
@@ -58,8 +52,6 @@ Strong product thinking + clean code is my natural combo.
 - **Dashboard Engineering** — analytics, charts, logs, activity streams  
 - **User & Role Management** — fine-grained permissions, audit logs, security flows  
 - **Clean Code Practices** — service layer, repository patterns, DTOs, validators, events  
-
----
 
 ## 🛠 Tech Stack & Capabilities
 
@@ -96,8 +88,6 @@ Strong product thinking + clean code is my natural combo.
 ![Scraping](https://img.shields.io/badge/Data-Scraping-yellow?style=for-the-badge)
 
 </div>
-
----
 
 ## 🔍 What I Build
 
@@ -139,8 +129,6 @@ Strong product thinking + clean code is my natural combo.
 - Audit logs  
 - High-performant APIs  
 
----
-
 ## 🧬 My Mindset
 
 > “A good system is not the one with the most features —  
@@ -157,8 +145,6 @@ I enjoy building systems that:
 
 I’m obsessed with **clean architecture, structured code and meaningful automation**.
 
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -168,8 +154,6 @@ I’m obsessed with **clean architecture, structured code and meaningful automat
     <img alt="fatihbarissahan" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
----
 
 ## 🤝 Let’s Connect
 
