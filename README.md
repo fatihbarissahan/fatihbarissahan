@@ -9,7 +9,7 @@
   <!--
   <img src="https://avatars.githubusercontent.com/u/65877282?v=4" width="120" style="border-radius:50%; border: 2px solid #fff; box-shadow: 0 0 0 4px #00c3ff33;" />
   -->
-  <h3>Full Stack Developer · System Architect · Automation Builder</h3>
+  <h3>Sr. Full Stack Developer · System Architect · Automation Builder</h3>
 
   <p>
     <a href="mailto:fatihbarissahan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=flat&logo=gmail" /></a>
